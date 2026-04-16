@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/rommforge/.github/blob/main/profile/images/gh_header.png" alt="rommforge banner">
+  <img src="https://github.com/rommforge/.github/blob/main/profile/images/gh_header.png" alt="rommforge banner" width="100%">
 </div>
 
 <br/>
